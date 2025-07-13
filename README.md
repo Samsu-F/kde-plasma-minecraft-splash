@@ -11,7 +11,7 @@ git clone https://github.com/Samsu-F/minecraftworldloading-kde-splash ~/.local/s
 ```
 After that, open your settings, go to splash screens, and select it.
 
-### KDE Store
+### Installing through KDE Store
 Open your settings, go to splash screens, and click on "Get New..." in the top right corner. Then search for "Minecraft World Loading" and you should be able to find and install this splash screen.
 
 ---
