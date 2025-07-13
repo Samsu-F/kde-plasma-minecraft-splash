@@ -9,7 +9,7 @@
     ],
     "Category": "",
     "Description": "A Plasma Splashscreen resembling the minecraft world loading animation",
-    "Id": "minecraftworldloading",
+    "Id": "minecraftworldloading-kde-splash",
     "License": "GPLv3",
     "Name": "minecraftworldloading",
     "Website": "https://github.com/Samsu-F/minecraftworldloading-kde-splash"
