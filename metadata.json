@@ -11,7 +11,7 @@
     "Description": "A Plasma Splashscreen resembling the minecraft world loading animation",
     "Id": "minecraftworldloading-kde-splash",
     "License": "GPLv3",
-    "Name": "minecraftworldloading",
+    "Name": "Minecraft World Loading",
     "Website": "https://github.com/Samsu-F/minecraftworldloading-kde-splash"
   },
   "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
