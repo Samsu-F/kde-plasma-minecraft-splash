@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "samsu-f@web.de",
+        "Name": "Samsu-F"
+      }
+    ],
+    "Category": "",
+    "Description": "A Plasma Splashscreen resembling the minecraft world loading animation",
+    "Id": "minecraftworldloading",
+    "License": "GPLv3",
+    "Name": "minecraftworldloading",
+    "Website": "https://github.com/Samsu-F/minecraftworldloading-kde-splash"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2",
+  "X-Plasma-MainScript": "default"
+}
