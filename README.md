@@ -16,3 +16,9 @@ Open your settings, go to splash screens, and click on "Get New..." in the top r
 
 ---
 If you like this splash screen, please leave a like in the KDE Store. You can find it here: https://store.kde.org/p/2301954.
+
+## Also check out these other projects:
+- [Minegrub Main Menu Theme](https://github.com/Lxtharia/minegrub-theme) by Lxtharia
+- [Minegrub World Selection Theme](https://github.com/Lxtharia/minegrub-world-sel-theme) by Lxtharia
+- [Minecraft SDDM Theme](https://github.com/Davi-S/sddm-theme-minesddm) by Davi-S
+- [Minecraft Plymouth Theme](https://github.com/nikp123/minecraft-plymouth-theme) by nikp123
